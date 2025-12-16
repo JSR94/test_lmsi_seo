@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss SYSTEM "rss.dtd">
+<rss version='2.0'>
+    <channel>
+        <title>Lenguaje TV</title>
+        <link>https://www.google.es</link>
+        <description>EL Blog de Lenguaje</description>
+        <item>
+            <title>The last dance LMGSI</title>
+            <link>https://www.google.es</link>
+            <description>Se acaba por fin</description>
+            <pubDate>Tue, 16 Dec 2025 8:30:00 UTC</pubDate>
+        </item>
+    </channel>
+</rss>
